@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="4936ffe1-34ec-41cb-8f16-db394ac2cbd7" name="s250010@studenti.polito.it">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="OPEN_IN_BROWSER_GIST" value="false" />
+  </component>
+</application>
